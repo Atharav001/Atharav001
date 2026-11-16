@@ -1,41 +1,36 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:09090b,55:17142b,100:102c25&text=ATHARAV%20NARANG&fontColor=f5f5f0&fontSize=42&fontAlignY=46&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20AI%2FML%20BUILDER&descAlignY=70&descSize=13&animation=fadeIn" width="100%" alt="Atharav Narang — Software Engineer and AI/ML Builder" />
-
-### I build thoughtful software, intelligent systems, and tools that feel good to use.
-
-[Portfolio](https://atharav001.vercel.com)　·　[LinkedIn](https://linkedin.com/in/atharav-narang-132b74273)　·　[Email](mailto:atharavnarang05@gmail.com)
-
+  <img src="./assets/hero.svg" width="100%" alt="Atharav Narang — software engineering and applied AI" />
+  <br /><br />
+  <strong>Computer Science at MIT Bengaluru.</strong> I build reliable AI systems and useful software with a focus on clear thinking, careful evaluation, and craft.
+  <br /><br />
+  <a href="https://atharav001.vercel.com">Portfolio ↗</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/atharav-narang-132b74273">LinkedIn ↗</a> &nbsp;·&nbsp;
+  <a href="mailto:atharavnarang05@gmail.com">Email ↗</a>
 </div>
 
----
+<br />
 
-```text
-MIT Bengaluru  /  Computer Science  /  Building in public
-```
+### 01 / Selected work
 
-### Selected work
+**[Agentic Deep Research ↗](https://github.com/Atharav001/RAG-Agentic-Deep-Research)**  
+Local research over hundreds of papers with hybrid retrieval and evidence checks.
 
-| Project | What it does |
-|:--|:--|
-| [Agentic Deep Research](https://github.com/Atharav001/RAG-Agentic-Deep-Research) | Local-first research over hundreds of papers, with evidence checks. |
-| [WhatsApp Message Router](https://github.com/Atharav001/whatsapp-message-notification-router) | A multimodal assistant that sorts messages with a safety-first pipeline. |
-| [Two-Step Multimodal Pipeline](https://github.com/Atharav001/Two-Step-Debiased-MultiModal-Pipeline) | Separates visual evidence from decisions to reduce model bias. |
+**[WhatsApp Message Router ↗](https://github.com/Atharav001/whatsapp-message-notification-router)**  
+Multimodal notification routing with deterministic safety controls.
 
-### Contribution rhythm
+**[Two-Step Multimodal Pipeline ↗](https://github.com/Atharav001/Two-Step-Debiased-MultiModal-Pipeline)**  
+Separates visual perception from decisions to reduce bias.
+
+<br />
+
+### 02 / Contribution activity
 
 <div align="center">
-
-[![Atharav's GitHub contribution graph](https://ghchart.rshah.org/3ee7b2/Atharav001)](https://github.com/Atharav001)
-
+  <a href="https://github.com/Atharav001">
+    <img src="https://ghchart.rshah.org/8aa994/Atharav001" width="100%" alt="Atharav's GitHub contributions heatmap" />
+  </a>
 </div>
 
-### Current toolkit
+<br />
 
-`Python`　`PyTorch`　`RAG`　`React`　`TypeScript`　`Node.js`　`Docker`　`Android`
-
-<div align="center">
-
-<sub>Curious by default. Shipping, measuring, improving.</sub>
-
-</div>
+<sub>Python · PyTorch · React · Swift · Docker &nbsp;&nbsp; / &nbsp;&nbsp; Building, measuring, refining.</sub>

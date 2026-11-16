@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Atharav Narang</title>
+  <desc id="desc">Software engineering and applied AI. An original dark editorial banner with subtle animated geometry.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#111820"/>
+      <stop offset=".55" stop-color="#10151b"/>
+      <stop offset="1" stop-color="#152522"/>
+    </linearGradient>
+    <linearGradient id="accent" x2="1" y2="0">
+      <stop stop-color="#b9d5c5"/>
+      <stop offset="1" stop-color="#7ca892"/>
+    </linearGradient>
+    <linearGradient id="fade" x2="1" y2="0">
+      <stop stop-color="#9cb7a8" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#9cb7a8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#d9e4dc" stroke-opacity=".035"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="340" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#background)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <path d="M55 60H1145M55 280H1145" stroke="#d7e5da" stroke-opacity=".12"/>
+    <path d="M55 60H145" stroke="url(#accent)" stroke-width="2"/>
+    <text x="56" y="92" fill="#a1baa9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3.5">ATHARAV / 001</text>
+    <text x="56" y="179" fill="#f1f3ee" font-family="Arial, Helvetica, sans-serif" font-size="63" font-weight="600" letter-spacing="-3">Atharav Narang</text>
+    <text x="58" y="222" fill="#b8c7bc" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing=".4">Software engineering  /  Applied AI</text>
+    <text x="56" y="306" fill="#8d9e93" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2.6">BUILDING SYSTEMS THAT HOLD UP IN THE REAL WORLD</text>
+    <circle cx="1000" cy="170" r="116" fill="none" stroke="#a5c6ae" stroke-opacity=".11"/>
+    <circle cx="1000" cy="170" r="87" fill="none" stroke="#a5c6ae" stroke-opacity=".22"/>
+    <circle cx="1000" cy="170" r="59" fill="none" stroke="#b3d4bc" stroke-opacity=".27"/>
+    <path d="M1000 54A116 116 0 0 1 1113 145" fill="none" stroke="url(#accent)" stroke-width="1.5" stroke-linecap="round" opacity=".7">
+      <animate attributeName="opacity" values=".35;.75;.35" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path d="M912 170H1088M1000 82V258" stroke="#b7d0bd" stroke-opacity=".11"/>
+    <circle cx="1000" cy="170" r="5" fill="#bddac3">
+      <animate attributeName="opacity" values=".45;1;.45" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1087" cy="170" r="3" fill="#b4d3bc"/>
+    <path d="M734 280H1138" stroke="url(#fade)"/>
+    <text x="1144" y="305" fill="#8d9e93" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2">BENGALURU  ·  INDIA</text>
+  </g>
+</svg>
