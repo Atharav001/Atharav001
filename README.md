@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/hero.gif" width="100%" alt="Atharav Narang — animated radar banner" />
   <br /><br />
-  <img src="./assets/avatar.png" width="160" height="160" alt="Hooded avatar with angular metal mask" />
+  <img src="./assets/avatar-v2.png" width="160" height="160" alt="Hooded avatar with calm metal face mask and green claw halo" />
   <br /><br />
   <img src="./assets/intro.svg" width="100%" alt="Computer Science at MIT Bengaluru. Reliable AI systems. Build, measure, refine." />
   <br /><br />
