@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="260" viewBox="0 0 390 260" role="img" aria-label="Agentic Deep Research">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#182027"/><stop offset="1" stop-color="#111b1d"/></linearGradient><pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#e0eee4" opacity=".08"/></pattern></defs>
+<rect x="1" y="1" width="388" height="258" rx="17" fill="url(#bg)" stroke="#9dbca7" stroke-opacity=".38"/>
+<path d="M28 39H362" stroke="#9dbca7" stroke-opacity=".24"/>
+<path d="M28 39H72" stroke="#9dbca7" stroke-width="2"/>
+<rect x="1" y="1" width="388" height="258" rx="17" fill="url(#dots)"/>
+<text x="28" y="27" fill="#9dbca7" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="2.3">RESEARCH SYSTEMS</text>
+<text x="362" y="27" fill="#92a59a" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.5">01 / 03</text>
+<text x="28" y="120" fill="#f1f3ee" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="600" letter-spacing="-.7">Agentic Deep</text>
+<text x="28" y="154" fill="#f1f3ee" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="600" letter-spacing="-.7">Research</text>
+<circle cx="310" cy="167" r="54" fill="none" stroke="#9dbca7" stroke-opacity=".38"/><circle cx="310" cy="167" r="24" fill="none" stroke="#9dbca7" stroke-opacity=".3"/><path d="M252 133L310 167L348 113M310 167L363 206M310 167L260 210" fill="none" stroke="#9dbca7" stroke-opacity=".44"/><g fill="#c7ddca"><circle cx="252" cy="133" r="4"/><circle cx="348" cy="113" r="4"/><circle cx="363" cy="206" r="4"/><circle cx="260" cy="210" r="4"/></g>
+<path d="M28 219H362" stroke="#9dbca7" stroke-opacity=".25"/>
+<text x="28" y="240" fill="#b4c5bb" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing=".4">Hybrid retrieval / cited synthesis</text>
+<path d="M344 231h14m-6-6 6 6-6 6" fill="none" stroke="#9dbca7" stroke-width="1.5"/>
+</svg>

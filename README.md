@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Atharav Narang — software engineering and applied AI" />
+  <img src="./assets/hero.gif" width="100%" alt="Atharav Narang — animated radar banner" />
   <br /><br />
-  <strong>Computer Science at MIT Bengaluru.</strong> I build reliable AI systems and useful software with a focus on clear thinking, careful evaluation, and craft.
+  <img src="./assets/intro.svg" width="100%" alt="Computer Science at MIT Bengaluru. Reliable AI systems. Build, measure, refine." />
   <br /><br />
-  <a href="https://atharav001.vercel.com">Portfolio ↗</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/atharav-narang-132b74273">LinkedIn ↗</a> &nbsp;·&nbsp;
+  <a href="https://atharav001.vercel.com">Portfolio ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/atharav-narang-132b74273">LinkedIn ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:atharavnarang05@gmail.com">Email ↗</a>
 </div>
 
@@ -12,14 +12,11 @@
 
 ### 01 / Selected work
 
-**[Agentic Deep Research ↗](https://github.com/Atharav001/RAG-Agentic-Deep-Research)**  
-Local research over hundreds of papers with hybrid retrieval and evidence checks.
-
-**[WhatsApp Message Router ↗](https://github.com/Atharav001/whatsapp-message-notification-router)**  
-Multimodal notification routing with deterministic safety controls.
-
-**[Two-Step Multimodal Pipeline ↗](https://github.com/Atharav001/Two-Step-Debiased-MultiModal-Pipeline)**  
-Separates visual perception from decisions to reduce bias.
+<p align="center">
+  <a href="https://github.com/Atharav001/RAG-Agentic-Deep-Research"><img src="./assets/research.svg" width="32%" alt="Agentic Deep Research — hybrid retrieval and cited synthesis" /></a>
+  <a href="https://github.com/Atharav001/whatsapp-message-notification-router"><img src="./assets/router.svg" width="32%" alt="WhatsApp Message Router — multimodal routing and safety controls" /></a>
+  <a href="https://github.com/Atharav001/Two-Step-Debiased-MultiModal-Pipeline"><img src="./assets/pipeline.svg" width="32%" alt="Two-Step Multimodal Pipeline — blind perception and grounded decisions" /></a>
+</p>
 
 <br />
 
