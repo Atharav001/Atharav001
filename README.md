@@ -1,8 +1,6 @@
 <div align="center">
   <img src="./assets/hero.gif" width="100%" alt="Atharav Narang — animated radar banner" />
   <br /><br />
-  <img src="./assets/avatar-v3.png" width="160" height="160" alt="Hooded avatar with stern metal mask and outward green claws" />
-  <br /><br />
   <img src="./assets/intro.svg" width="100%" alt="Computer Science at MIT Bengaluru. Reliable AI systems. Build, measure, refine." />
   <br /><br />
   <a href="https://atharav001.vercel.com">Portfolio ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp;
